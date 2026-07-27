@@ -1,0 +1,30 @@
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.db
+*.DS_Store
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# JetBrains
+*.iml
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows thumbnail cache files
+Thumbs.db
